@@ -1,2 +1,2 @@
 # simplex-Algorithm
-## JAVASCRIPT implementation for Linear programming Simplex method
+### JAVASCRIPT implementation for Linear programming Simplex method
